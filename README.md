@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PRGA-eng
-- 👀 I’m interested in ...Python,RSC,Hadoop
+- 👀 I’m interested in ...PySpark,Hive,RSC,Hadoop
 - 🌱 I’m currently learning ...Reverse ETL, Delta Lake, Cloud FPGA
 - 💞️ I’m looking to collaborate on ...Apache Druid
 - 📫 How to reach me ...paulorgalonso@gmail.com
